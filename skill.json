@@ -1,0 +1,15 @@
+{
+  "name": "genpark-loop-invariant-code-motion-licm-skill",
+  "version": "1.0.0",
+  "description": "Loop-Invariant Code Motion (LICM) optimization pass hoisting loop-invariant computations into preheader blocks.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "licm",
+    "loop-optimization",
+    "compilers",
+    "intermediate-representation"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
